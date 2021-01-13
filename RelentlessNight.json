@@ -17,8 +17,8 @@
 				"ModSettings"
 			],
 			"status":{
-				"working":false,
-				"issues":"",
+				"working":true,
+				"issues":"Currently only compatible on versions between and including 1.77 - 1.83",
 				"notes":""
 			}
 		}
