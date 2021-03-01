@@ -4,13 +4,13 @@
 	"mods":[
 		{
 			"name":"Relentless Night",
-			"version":"4.10",
-			"updated":"2020-08-21",
+			"version":"4.20",
+			"updated":"2020-03-01",
 			"description":"The spin of the earth seems to be slowing. Days and nights are getting longer. Every long night gets colder and harsher than the last. How long will you survive?",
 			"modURL":"https://github.com/Burakalite/RelentlessNight",
 			"downloadURL":"https://github.com/Burakalite/RelentlessNight/releases/download/4.10/RelentlessNight.dll",
 			"testedon":{
-				"tldversion":"1.83",
+				"tldversion":"1.93",
 				"mlversion":"0.2.3"
 			},
 			"dependencies":[
@@ -18,7 +18,7 @@
 			],
 			"status":{
 				"working":true,
-				"issues":"Currently only compatible on versions between and including 1.77 - 1.83",
+				"issues":"",
 				"notes":""
 			}
 		}
