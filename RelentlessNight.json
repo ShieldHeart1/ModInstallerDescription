@@ -11,7 +11,7 @@
 			"downloadURL":"https://github.com/Burakalite/RelentlessNight/releases/download/4.20/RelentlessNight.dll",
 			"testedon":{
 				"tldversion":"1.93",
-				"mlversion":"0.2.3"
+				"mlversion":"0.2.7"
 			},
 			"dependencies":[
 				"ModSettings"
