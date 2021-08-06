@@ -10,12 +10,16 @@
 			"modURL":"https://github.com/Burakalite/RelentlessNight",
 			"downloadURL":"https://github.com/Burakalite/RelentlessNight/releases/download/4.30/RelentlessNight.dll",
 			"testedon":{
-				"tldversion":"1.93",
-				"mlversion":"0.2.7"
+				"tldversion":"1.94",
+				"mlversion":"0.2.7.4"
 			},
 			"dependencies":[
 				"ModSettings"
 			],
+			"updater":{
+				"enable": false,
+				"downloads":[]
+			},
 			"status":{
 				"working":true,
 				"issues":"",
