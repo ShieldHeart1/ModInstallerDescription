@@ -28,7 +28,6 @@
 			"images": [],
 			"dependencies": [
 				"ModSettings",
-				"ModComponent",
 				"ModData"
 			],
 			"status": {
