@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "4.60",
+			"version": "4.6.0",
 			"name": "Relentless Night",
 			"displayName": "",
 			"author": "ShieldHeart, STBlade",
 			"previousAuthors": "ShieldHeart",
 			"released": "2023-03-18",
 			"updated": "2023-03-18",
-			"downloadURL": "https://github.com/ShieldHeart1/RelentlessNight/releases/download/4.60/RelentlessNight.dll",
+			"downloadURL": "https://github.com/ShieldHeart1/RelentlessNight/releases/download/4.6.0/RelentlessNight.dll",
 			"modURL": "https://github.com/ShieldHeart1/RelentlessNight",
 			"description": "The spin of the earth is slowing. Days and nights are getting longer. Every long night gets colder and harsher than the last. Nowhere is safe from the cold. How long will you survive in this eerie new world?<br><br>You can keep up with mod discussion, updates, and report any issues at our Relentless Mods discord channel with this - <a href='https://discord.gg/GjAG9XNfR7' target='_blank'>INVITE</a>.",
 			"tags": "",
@@ -33,7 +33,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Relentless Night updated to work with latest build of game - 2.07.",
+				"patchnotes": "Relentless Night updated to work with latest build of game - 2.06+.",
 				"notes": "",
 				"issues": ""
 			},
