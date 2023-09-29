@@ -6,16 +6,16 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "4.7.1",
+			"version": "4.7.2",
 			"name": "Relentless Night",
 			"displayName": "",
 			"author": "ShieldHeart, STBlade",
 			"previousAuthors": "ShieldHeart",
 			"released": "2023-03-30",
-			"updated": "2023-06-29",
-			"downloadURL": "https://github.com/ShieldHeart1/RelentlessNight/releases/download/4.7.1/RelentlessNight.dll",
+			"updated": "2023-09-29",
+			"downloadURL": "https://github.com/ShieldHeart1/RelentlessNight/releases/download/4.7.2/RelentlessNight.dll",
 			"modURL": "https://github.com/ShieldHeart1/RelentlessNight",
-			"description": "TLD 2.19 use RN 4.7.1, TLD 2.10+ use RN 4.6.3, TLD 2.06&2.08 use RN 4.6.1<br>The spin of the earth is slowing. Days and nights are getting longer. Every long night gets colder and harsher than the last. Nowhere is safe from the cold. How long will you survive in this eerie new world?<br><br>You can keep up with mod discussion, updates, and report any issues at our Relentless Mods discord channel with this - <a href='https://discord.gg/GjAG9XNfR7' target='_blank'>INVITE</a>.",
+			"description": "TLD 2.23 use RN 4.7.2, TLD 2.19 use RN 4.7.1, TLD 2.10+ use RN 4.6.3, TLD 2.06&2.08 use RN 4.6.1<br>The spin of the earth is slowing. Days and nights are getting longer. Every long night gets colder and harsher than the last. Nowhere is safe from the cold. How long will you survive in this eerie new world?<br><br>You can keep up with mod discussion, updates, and report any issues at our Relentless Mods discord channel with this - <a href='https://discord.gg/GjAG9XNfR7' target='_blank'>INVITE</a>.",
 			"tags": "",
 			"categories": [
 				"Gameplay",
@@ -33,12 +33,12 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Relentless Night updated to work with latest build of game - 2.19.",
+				"patchnotes": "Relentless Night updated to work with latest build of game - 2.23.",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.23",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
